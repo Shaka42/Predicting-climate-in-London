@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Desktop/work/ML/titanic%20competition/Predicting%20climate%20in%20London/mlruns/630273110191395476/98d47f88e9dc456889fad1a7d886cd44/artifacts
+end_time: 1720217513200
+entry_point_name: ''
+experiment_id: '630273110191395476'
+lifecycle_stage: active
+run_id: 98d47f88e9dc456889fad1a7d886cd44
+run_name: wise-mule-832
+run_uuid: 98d47f88e9dc456889fad1a7d886cd44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720217490362
+status: 3
+tags: []
+user_id: Hakizimana

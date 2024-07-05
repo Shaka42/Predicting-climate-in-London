@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Desktop/work/ML/titanic%20competition/Predicting%20climate%20in%20London/mlruns/183576299595906801/ce59d77f5ab840958901b44f16483af4/artifacts
+end_time: 1719179788638
+entry_point_name: ''
+experiment_id: '183576299595906801'
+lifecycle_stage: active
+run_id: ce59d77f5ab840958901b44f16483af4
+run_name: capable-hound-571
+run_uuid: ce59d77f5ab840958901b44f16483af4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719179788391
+status: 3
+tags: []
+user_id: Hakizimana

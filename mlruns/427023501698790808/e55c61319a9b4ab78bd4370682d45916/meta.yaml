@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Desktop/work/ML/titanic%20competition/Predicting%20climate%20in%20London/mlruns/427023501698790808/e55c61319a9b4ab78bd4370682d45916/artifacts
+end_time: 1719179789006
+entry_point_name: ''
+experiment_id: '427023501698790808'
+lifecycle_stage: active
+run_id: e55c61319a9b4ab78bd4370682d45916
+run_name: placid-goat-203
+run_uuid: e55c61319a9b4ab78bd4370682d45916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719179788720
+status: 3
+tags: []
+user_id: Hakizimana

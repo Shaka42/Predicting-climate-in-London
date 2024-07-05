@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Desktop/work/ML/titanic%20competition/Predicting%20climate%20in%20London/mlruns/630273110191395476/1a8f549600fa4cb38ce17fc75faa33c4/artifacts
+end_time: 1720217490345
+entry_point_name: ''
+experiment_id: '630273110191395476'
+lifecycle_stage: active
+run_id: 1a8f549600fa4cb38ce17fc75faa33c4
+run_name: dazzling-pig-774
+run_uuid: 1a8f549600fa4cb38ce17fc75faa33c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720217479290
+status: 3
+tags: []
+user_id: Hakizimana

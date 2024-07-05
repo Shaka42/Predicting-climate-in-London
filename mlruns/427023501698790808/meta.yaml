@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/HP/Desktop/work/ML/titanic%20competition/Predicting%20climate%20in%20London/mlruns/427023501698790808
+creation_time: 1719179788655
+experiment_id: '427023501698790808'
+last_update_time: 1719179788655
+lifecycle_stage: active
+name: DecisonTreeRegressor

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Desktop/work/ML/titanic%20competition/Predicting%20climate%20in%20London/mlruns/701913300986002453/b1f1aa86267843c2aebac0534085d05b/artifacts
+end_time: 1719179800707
+entry_point_name: ''
+experiment_id: '701913300986002453'
+lifecycle_stage: active
+run_id: b1f1aa86267843c2aebac0534085d05b
+run_name: kindly-cub-29
+run_uuid: b1f1aa86267843c2aebac0534085d05b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719179789105
+status: 3
+tags: []
+user_id: Hakizimana

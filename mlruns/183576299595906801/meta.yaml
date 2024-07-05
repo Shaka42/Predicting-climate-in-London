@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/HP/Desktop/work/ML/titanic%20competition/Predicting%20climate%20in%20London/mlruns/183576299595906801
+creation_time: 1719179787660
+experiment_id: '183576299595906801'
+last_update_time: 1719179787660
+lifecycle_stage: active
+name: LinearRegression
